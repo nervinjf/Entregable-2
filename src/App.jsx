@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import './App.css'
 import axios from 'axios';
 import useFetch from './useFetch';
-import Weather from './Component/Weather';
+import Weather from './Weather';
 
 function App() {
 
