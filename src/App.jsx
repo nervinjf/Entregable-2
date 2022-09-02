@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
 import axios from 'axios';
-import useFetch from './Hooks/useFetch';
+import useFetch from './useFetch';
 import Weather from './Component/Weather';
 
 function App() {
