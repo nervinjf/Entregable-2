@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState, useEffect } from 'react'
 import axios from 'react'
-import useFetch from './useFetch';
+import useFetch from '../Hooks/useFetch';
 
 const Weather = () => {
 
